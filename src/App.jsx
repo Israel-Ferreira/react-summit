@@ -1,8 +1,6 @@
 import React from 'react';
-import logo from './assets/logo.svg';
 import './App.css';
 
-import Home from './views/Home';
 import Routes from './routes';
 
 function App() {
